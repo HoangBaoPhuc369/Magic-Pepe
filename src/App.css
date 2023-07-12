@@ -15,13 +15,14 @@ p {
 
 body {
   margin: 0;
-}
-
-.container {
   background-image: url("/public/images/anhnen.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
   min-width: 100vw;
   min-height: 100vh;
 }
