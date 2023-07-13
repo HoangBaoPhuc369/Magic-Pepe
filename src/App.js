@@ -17,12 +17,16 @@ function App() {
           </div>
           <div className="first-right">
             <img src="images/avatarpepemagic.png" alt="" />
-            <button>BUY NOW !</button>
+            <a href="https://app.uniswap.org/#/swap?outputCurrency=0xE557602cE4378338B6cC060...ethereum">
+              BUY NOW !
+            </a>
           </div>
         </div>
         <div className="contract">
           <p>Contract Address: 0xE557602cE4378338B6cC060f90597c04bD9f119B </p>
-          <button>CHART LINK &gt;</button>
+          <a href="https://dexscreener.com/ethereum/0xE557602cE4378338B6cC060f90597c04bD9f119B">
+            CHART LINK &gt;
+          </a>
         </div>
         <div className="second-section">
           <div className="second-title">Tokenomics</div>
