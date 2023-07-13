@@ -67,7 +67,10 @@ function App() {
                 alt=""
               />
             </a>
-            <a href="/" className="special-icon">
+            <a
+              href="https://app.uniswap.org/#/swap?outputCurrency=0xE557602cE4378338B6cC060f90597c04bD9f119B&chain=ethereum"
+              className="special-icon"
+            >
               <img
                 src="https://static.wixstatic.com/media/4bc8bd_8f4198aceafa48e3ae8fbd15e3f21a63~mv2.webp"
                 alt=""
