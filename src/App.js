@@ -21,7 +21,7 @@ function App() {
           </div>
         </div>
         <div className="contract">
-          <p>Contract Address: 0x000000000000000000000000000000000000000 </p>
+          <p>Contract Address: 0xE557602cE4378338B6cC060f90597c04bD9f119B </p>
           <button>CHART LINK &gt;</button>
         </div>
         <div className="second-section">
@@ -73,7 +73,7 @@ function App() {
                 alt=""
               />
             </a>
-            <a href="/">
+            <a href="https://dexscreener.com/ethereum/0xE557602cE4378338B6cC060f90597c04bD9f119B">
               <img
                 src="https://static.wixstatic.com/media/4bc8bd_6d70a2362d4f49868d5654e291c3eb47~mv2.webp"
                 alt=""
