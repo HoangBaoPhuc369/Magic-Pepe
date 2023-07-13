@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Concert+One&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
 * {
   box-sizing: border-box;
 }
@@ -53,9 +53,10 @@ body {
 }
 
 .first-left p {
+  font-family: "VT323", monospace;
   margin-top: 40px;
   color: white;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: 500;
 }
 
@@ -77,8 +78,8 @@ body {
 }
 
 .contract p {
-  font-size: 29px;
-  font-family: sans-serif;
+  font-size: 40px;
+  font-family: "VT323", monospace;
   font-weight: bold;
   color: rgb(255, 255, 255);
   text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px;
@@ -134,7 +135,7 @@ body {
 
 .content-title {
   margin-top: 60px;
-  font-family: avenir-lt-w01_85-heavy1475544, avenir-lt-w05_85-heavy, sans-serif;
+  font-family: "VT323", monospace;
   font-size: 51px;
   color: #fff;
   text-shadow: rgba(255, 255, 255, 0.6) 1px 1px 1px,
