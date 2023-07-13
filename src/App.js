@@ -55,7 +55,7 @@ function App() {
           </div>
           <div className="second-title">LP locked for 60 Days</div>
           <div className="second-group-icon">
-            <a href="/">
+            <a href="https://twitter.com/Magicmpepe">
               <img
                 src="https://static.wixstatic.com/media/4bc8bd_6642fccbc8294eaeac73813649074376~mv2.webp"
                 alt=""
