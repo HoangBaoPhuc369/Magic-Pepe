@@ -61,7 +61,7 @@ function App() {
                 alt=""
               />
             </a>
-            <a href="/">
+            <a href="https://t.me/MagicPepe_Portal">
               <img
                 src="https://static.wixstatic.com/media/4bc8bd_fcda6d8afc3e4c779e724eecb66887cc~mv2.webp"
                 alt=""
