@@ -52,11 +52,6 @@ function App() {
               <div className="content-title">Tax Sell</div>
               <div className="content-info">2</div>
             </div>
-
-            <div className="content">
-              <div className="content-title">Total Supply</div>
-              <div className="content-info"> 1000 000 $DAGMI</div>
-            </div>
           </div>
           <div className="second-title">LP locked for 60 Days</div>
           <div className="second-group-icon">
